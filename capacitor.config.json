@@ -1,0 +1,9 @@
+{
+  "appId": "app.lovable.f3730ec05fa34f2b81be93b6c18e3d68",
+  "appName": "Famelink",
+  "webDir": "dist",
+  "server": {
+    "url": "https://f3730ec0-5fa3-4f2b-81be-93b6c18e3d68.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}
